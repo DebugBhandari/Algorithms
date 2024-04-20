@@ -1,0 +1,6 @@
+[OpenAI fine tune job] Uploaded ./test_train_data/jennytaylor_train_dataset.jsonl to file with id: file-wVK40VzMvEq9JkIP7m3PALGk
+[OpenAI fine tune job] Uploaded ./test_train_data/jennytaylor_test_dataset.jsonl to file with id: file-SB7hSBv7yuslx3uoQMrcUtR8
+[OpenAI fine tune job] Started fine-tuning job for jennytaylor with id: ftjob-yaDfDJuc3EUDK75zLP0KqAd8
+[Anyscale fine tune job] Uploaded ./test_train_data/jennytaylor_train_dataset.jsonl to file with id: file_gense18rfqr1u6f1ci6ketzxua
+[Anyscale fine tune job] Uploaded ./test_train_data/jennytaylor_test_dataset.jsonl to file with id: file_7fsrqc46my28c7mplrzv2lvfi8
+[Anyscale fine tune job]  Started fine-tuning job  for jennytaylor with id: eftjob_peexfs24tpsfs8l8bf38i1wyj5
